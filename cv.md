@@ -1,6 +1,6 @@
-#**Hanna Paniavina**
+# **Hanna Paniavina**
 ---
-##**My contact info:**
+## **My contact info:**
 ---
 *__location:__ Minsk,Belarus
 *__Phone:__+375 29 116 35 20
