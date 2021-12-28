@@ -19,8 +19,8 @@ for (let i = 0; i < 10; i++) {
 ## **Education:**
 * __University:__ International University MITSO, logistics-economist
 * __Courses:__
-      + [CS50 Lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
-      + [HTML Academy](https://htmlacademy.ru/study)
+        + [CS50 Lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA) 
+        + [HTML Academy](https://htmlacademy.ru/study)
 ## **Languages:**
 * __Russian__-native speaker.
 * __English__-Strong English communication skills both verbally and written.
